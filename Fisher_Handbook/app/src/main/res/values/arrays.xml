@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fishes_array">
+        <item>Карп</item>
+        <item>Щука</item>
+        <item>Сом</item>
+        <item>Осетр</item>
+        <item>Налим</item>
+    </string-array>
+
+    <string-array name="custom_fishes_array">
+        <item>Карпиус</item>
+        <item>Щукус</item>
+        <item>Сомиус</item>
+        <item>Осетриус</item>
+        <item>Налимус</item>
+    </string-array>
+
+    <string-array name="bait_array">
+        <item>Червяк</item>
+        <item>Кукуруза</item>
+        <item>Хлеб</item>
+        <item>Рис</item>
+        <item>Мясо</item>
+    </string-array>
+
+    <string-array name="tackle_array">
+        <item>Грузила</item>
+        <item>Крючки</item>
+        <item>Леска</item>
+        <item>Блесна</item>
+    </string-array>
+
+    <string-array name="food_array">
+        <item>Кукуруза</item>
+        <item>Хлеб</item>
+        <item>Рис</item>
+    </string-array>
+
+    <string-array name="history_array">
+        <item>Рыбак и море</item>
+        <item>Рыбак и цюка</item>
+        <item>На дону</item>
+        <item>Случай на рыбалке</item>
+    </string-array>
+
+    <string-array name="advice_array">
+        <item>Советы по прикормке</item>
+        <item>Сезон рыбалок</item>
+        <item>На что клюет</item>
+        <item>Большой улов</item>
+    </string-array>
+
+    <string-array name="main_text_size_array">
+        <item>Большой текст</item>
+        <item>Средний текст</item>
+        <item>Маленький текст</item>
+    </string-array>
+</resources>
